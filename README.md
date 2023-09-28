@@ -1,2 +1,2 @@
 # bash-automation
-one off bash scripts
+one off bash scripts 
